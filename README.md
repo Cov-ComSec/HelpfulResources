@@ -12,6 +12,8 @@ Anyone in ComSec is able to view or edit these materials. However, we implore yo
 
 If you are unable to follow these rules, the ComSec comittee may ban you or remove write permissions to the organisation, and all decisions are final.
 
+If you have any questions, feel free to ask us either on Discord or by ComSec@live.coventry.ac.uk
+
 Hope you can make this a great place/area to find materials,
 
 ComSec Comittee
