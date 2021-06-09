@@ -4,7 +4,7 @@ Found a helpful resource, or a really good challenge? Tell us about it &amp; add
 - [GTFOBins](https://gtfobins.github.io/) - Does this really need explaining?
 - [Payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads and wordlists for most types of attack
 - [Pentester Playbook](https://pages.benroxbeecox.me) - Growing site consisting of reference texts, cheatsheets and commands for attacks & tools
-
+- [Hacking Tutorials](https://www.hackingtutorials.org) - Great site for learning standard techniques such as using tools, standard priv escs etc
 
 ## Terms of Contribution
 Anyone in ComSec is able to view or edit these materials. However, we implore you to follow these rules:
