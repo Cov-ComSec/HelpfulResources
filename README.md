@@ -23,4 +23,4 @@ Hope you can make this a great place/area to find materials,
 
 ComSec Comittee
 
--Jack, Martin & Tiago
+- Ben, Jack, Martin & Tiago
