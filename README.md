@@ -1,7 +1,7 @@
 # HelpfulResources
 Found a helpful resource, or a really good challenge? Tell us about it &amp; add links/materials!
 
-In this repo we have lists of resources we feel are useful for everyone in the course and everyone studying cybersecurity. Every resource that was posted here is either being used by us right now or was used in the past and we advice for the use of the same because it helped us progress as students.
+This repository contains a list of resources and materials that we feel are useful/related to cybersecurity. All the resources listed will be what we have used, or what other students have reccomended.
 Enjoy and good studies.
 
 ## Terms of Contribution
