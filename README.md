@@ -1,10 +1,8 @@
 # HelpfulResources
 Found a helpful resource, or a really good challenge? Tell us about it &amp; add links/materials!
 
-- [GTFOBins](https://gtfobins.github.io/) - Does this really need explaining?
-- [Payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads and wordlists for most types of attack
-- [Pentester Playbook](https://pages.benroxbeecox.me) - Growing site consisting of reference texts, cheatsheets and commands for attacks & tools
-- [Hacking Tutorials](https://www.hackingtutorials.org) - Great site for learning standard techniques such as using tools, standard priv escs etc
+In this repo we have lists of resources we feel are useful for everyone in the course and everyone studying cybersecurity. Every resource that was posted here is either being used by us right now or was used in the past and we advice for the use of the same because it helped us progress as students.
+Enjoy and good studies.
 
 ## Terms of Contribution
 Anyone in ComSec is able to view or edit these materials. However, we implore you to follow these rules:
