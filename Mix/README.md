@@ -16,6 +16,7 @@
 - Windows Internals, Part 1 and 2
 - Linux system programming talking directly to the kernel and C library
 - Linux for Hackers
+- The Hacker Playbook 3: Practical Guide To Penetration Testing
 
 There are a lot of book but these five cover good areas binary exploitation, web, networking, the next two operating systems architecture and the last how to use linux.
 
