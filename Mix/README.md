@@ -26,12 +26,15 @@ There are a lot of book but these five cover good areas binary exploitation, web
 - [All Info Sec News](https://allinfosecnews.com/)
 - [Hacklido](https://hacklido.com/)
 - [0x00sec](https://0x00sec.org/)
+- [Security Now](https://twit.tv/shows/security-now)
 
 # Note Taking Tools
 - Obsidian
 - Cherry Tree
 - Joplin
-- A vim or emacs tab on the side works just fine too.
+- OneNote
+- A vim, VScode, Emacs or [insert your favourite text editor] works as well.
+
 
 
 ## Reference

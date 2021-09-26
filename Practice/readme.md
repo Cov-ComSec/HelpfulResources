@@ -5,7 +5,7 @@ Below are a few places to practice your skill (I personally reccomend THM for be
 - THM - [TryHackMe](https://tryhackme.com/)
 - [VulnHub](vulnhub.com/)
 - [PentesterLab](https://pentesterlab.com)
-- [ImmersiveLabs](https://immersivelabs.online/)*
+- [ImmersiveLabs](https://dca.immersivelabs.online)*
 - VHL - [Virtual Hacking Labs](https://www.virtualhackinglabs.com/)
 - [Pico Ctf](https://www.picoctf.org/)
 - OTW - [OverTheWire](https://overthewire.org/wargames/)

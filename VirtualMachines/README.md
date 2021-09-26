@@ -8,8 +8,8 @@ There are four main ways to run VMs:
 As coventry University Students we can get a free license of VMWare Pro [onthehub](https://coventry.onthehub.com/WebStore/Welcome.aspx)
 
 In terms of VM's there are two main ones that students use:
-- Kali
-- Parrot OS
+- [Kali](https://kali.org)
+- [Parrot OS](https://www.parrotsec.org/)
 
 Most students run the pure Kali version
 
@@ -26,5 +26,5 @@ Other interesting VMs to play with.
 - [Threat Pursuit VM](https://github.com/mandiant/ThreatPursuit-VM)
 - [Commando VM](https://github.com/mandiant/commando-vm)
 - [Flare VM](https://github.com/mandiant/flare-vm)
-- Metasploitable 2 and 3
+- [Metasploitable 2 and 3](https://github.com/rapid7/metasploitable3)
 - [OWASP Broken Web Applications Project](https://sourceforge.net/projects/owaspbwa/)

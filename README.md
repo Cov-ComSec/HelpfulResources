@@ -1,8 +1,7 @@
 # HelpfulResources
 Found a helpful resource, or a really good challenge? Tell us about it &amp; add links/materials!
 
-This repository contains a list of resources and materials that we feel are useful/related to cybersecurity. All the resources listed will be what we have used, or what other students have reccomended.
-Enjoy and good studies.
+This repository contains a list of resources and materials that we feel are useful/related to cybersecurity. All the resources listed will be what we have used, or what other students have recommended.
 
 ## Terms of Contribution
 Anyone in ComSec is able to view or edit these materials. However, we implore you to follow these rules:
