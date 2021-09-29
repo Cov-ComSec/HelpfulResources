@@ -1,0 +1,2 @@
+- [GTFOBins](https://gtfobins.github.io/) - Exploit linux binaries for privesc
+- [Lolbas](https://lolbas-project.github.io/#) - Exploit windows binaries for privesc
