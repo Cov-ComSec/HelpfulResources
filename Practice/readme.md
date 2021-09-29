@@ -20,6 +20,7 @@ Below are a few places to practice your skill (I personally reccomend THM for be
 
 Is hard to say which one is the best for you, but for starters we advice people to use either TryHackMe, PicoCTF or OTW. The three were designed for that purpose and have easy learning curve. We these three websites you can go from zero to hero, if you put a good amount of hours daily. Also here is a roadmap by Tux that may guide you.
 ![](CyberRoadmap.png)
+
 There are lot more places to practice and websites like [ctftime](https://ctftime.org) which is the website used for ranking all the ctfteams around the world and were most competitions are published if you want to participate in a good part of them you need an account.
 
 ## Reference
