@@ -1,0 +1,4 @@
+- [Hackers Arise](https://www.hackers-arise.com)
+- [Pentester Playbook](https://pages.benroxbeecox.me) - Growing site consisting of reference texts, cheatsheets and commands for attacks & tools
+- [Hacking Tutorials](https://www.hackingtutorials.org) - Great site for learning standard techniques such as using tools, standard priv escs etc
+- [Hacking Conferences](https://infosec-conferences.com/category/hacker-conference/)

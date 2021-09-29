@@ -1,4 +1,5 @@
-To begin hacking, we recommend that you use a VM (Virtual Machine)
+To begin hacking, we recommend that you use a VM (Virtual Machine).
+We have a guide on [How to install VMWare and Kali](https://cov-comsec.github.io/posts/vm_setup/).
 There are four main ways to run VMs:
 - HyperV (Windows 10 Pro/Edu only)
 - VirtualBox
@@ -12,6 +13,8 @@ In terms of VM's there are two main ones that students use:
 - [Parrot OS](https://www.parrotsec.org/)
 
 Most students run the pure Kali version
+You can find the University VMs at https://cueh.coventry.ac.uk/vmrepo/
+And ComSec now has their own version of Kali you can find in the lab machines.
 
 Latest developments - WSL:
 - Windows Sub System for Linux
