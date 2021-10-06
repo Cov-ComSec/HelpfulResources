@@ -18,12 +18,16 @@ There are a lot of book but these cover good areas binary exploitation, web, net
 - [Security Now](https://twit.tv/shows/security-now)
 
 # Note Taking Tools
-- Obsidian
-- Cherry Tree
-- Joplin
-- OneNote
+For note taking, all the committee uses [markdown](https://www.markdownguide.org/) - which is a language that is fantastic for transferring between different formats. Here are our top markdown editors:
+- [Cherry Tree](https://www.giuspen.com/cherrytree/) (installed by default in Kali)
+- [Joplin](https://joplinapp.org/)
+- [Notable](https://notable.app/)
+- [Obsidian](https://obsidian.md/)
 - A vim, VScode, Emacs or [insert your favourite text editor] works as well.
 
+If you prefer a more tradition/GUI approach, have a look at:
+- [Notion](https://www.notion.so/)
+- [OneNote](https://www.onenote.com) - installed by default on Windows/with Microsoft Office; there is also a web version available
 
 ## Reference
 [Awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
