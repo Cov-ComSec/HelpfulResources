@@ -1,2 +1,3 @@
 - [Payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads and wordlists for most types of attack
 - [Seclists](https://github.com/danielmiessler/SecLists) - A compilation of the most used wordlists in the industry.
+- Open /usr/share/wordlists/ in Kali Linux
