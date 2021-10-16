@@ -24,7 +24,7 @@ def writeTable(outFile, table, arch):
         with open(f"{outFile}", "w") as file:
             file.write(table)
     else:
-        with open(f"syscalls_{arch}.md", "w") as file:
+        with open(f"syscalls_{arch}.txt", "w") as file:
             file.write(table)
 
 if __name__ == "__main__":
