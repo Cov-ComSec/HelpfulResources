@@ -15,6 +15,10 @@ python3 syscall.py -a x64 -f x64_syscall.md
 
 Oh and it's nicely grepable
 
+```
+> file=syscalls_x64.md; head -n 1 $file ; grep chmod $file
+```
+
 ##### Requirments
 
 - BeautifulSoup4
