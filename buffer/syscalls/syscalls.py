@@ -18,11 +18,8 @@ def makeTable(url):
         record = (i.text).split()
         newrec = "| "
         for col in record:
-            #print(col)
             newrec += f"{col} | " 
-
         new_table += newrec + "\n"
-
     return(new_table)
 
 def writeTable(outFile, table, arch):
