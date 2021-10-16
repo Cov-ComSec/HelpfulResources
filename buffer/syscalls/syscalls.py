@@ -22,7 +22,7 @@ def makeTable(url):
         new_table += newrec + "\n"
     return(new_table)
 
-def writeTable(outFile, table, arch):
+def writeTable(table, arch):
     """Write table to a txt or custom file
     """
     if options.outFile is not None:
@@ -44,4 +44,4 @@ if __name__ == "__main__":
     else:
         pass
     url = f"https://{options.arch.strip()}.syscall.sh/"
-    writeTable("test.md", makeTable(url), options.arch)
+    writeTable(makeTable(url), options.arch)
