@@ -3,6 +3,12 @@ from bs4 import BeautifulSoup
 from optparse import OptionParser
 
 def makeTable(url):
+    """Uses requests to get web page. Then b24 parses the table collecting the records.
+    Args:
+        - url : The url to use for table generation
+    Returns:
+        - new_table : a regenerated table with `|` seperators 
+    """
     webPage = requests.get(url)
     soup = BeautifulSoup(webPage.text, "html.parser")
     table = soup.find_all('tr')
@@ -20,6 +26,8 @@ def makeTable(url):
     return(new_table)
 
 def writeTable(outFile, table, arch):
+    """Write table to a txt or custom file
+    """
     if options.outFile is not None:
         with open(f"{outFile}", "w") as file:
             file.write(table)
