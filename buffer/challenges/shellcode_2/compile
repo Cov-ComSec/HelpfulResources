@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc challenge.c -l capstone -z execstack -o bin/challenge
