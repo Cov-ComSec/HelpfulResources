@@ -3,10 +3,10 @@ We have a guide on [How to install VMWare and Kali](https://cov-comsec.github.io
 There are four main ways to run VMs:
 - HyperV (Windows 10 Pro/Edu only)
 - VirtualBox
-- VMware
+- VMware Workstation Pro (Windows) / VMware Fusion (MacOS)
 - KVM/Qemu (really good for linux users)
 
-As coventry University Students we can get a free license of VMWare Pro [onthehub](https://coventry.onthehub.com/WebStore/Welcome.aspx)
+As coventry University Students we can get a free license of VMWare Pro [onthehub](https://coventry.onthehub.com/WebStore/Welcome.aspx). **NB:** VMware fusion is also available on the hub, however as I do not own a Mac I cannot give installation advice - so maybe [try this video](https://www.youtube.com/watch?v=tA50zg7D4mg)
 
 In terms of VM's there are two main ones that students use:
 - [Kali](https://kali.org)
