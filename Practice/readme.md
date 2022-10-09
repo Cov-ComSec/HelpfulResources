@@ -2,19 +2,24 @@
 
 Below are a few places to practice your skill (I personally reccomend THM for beginners - Jack)
 
-- HTB - [HackTheBox](https://www.hackthebox.eu/)
-- THM - [TryHackMe](https://tryhackme.com/)
-- [VulnHub](vulnhub.com/)
+- [HackTheBox](https://www.hackthebox.eu/) - Practice General Pentesting and Jeopardy CTF Challenges 
+- [TryHackMe](https://tryhackme.com/) - Practice General Pentesting and Jeopardy CTF Challenges
+- [VulnHub](vulnhub.com/) - Boot2Root Pentesting Boxes
 - [PentesterLab](https://pentesterlab.com)
 - [ImmersiveLabs](https://dca.immersivelabs.online)*
-- VHL - [Virtual Hacking Labs](https://www.virtualhackinglabs.com/)
-- [Pico Ctf](https://www.picoctf.org/)
-- OTW - [OverTheWire](https://overthewire.org/wargames/)
-- UTW - [UnderTheWire](https://underthewire.tech/)
-- [CryptoHack](https://cryptohack.org)
+- [Virtual Hacking Labs](https://www.virtualhackinglabs.com/)
+- [Pico Ctf](https://www.picoctf.org/) -  Beginner Friendly CTF Platform
+- [OverTheWire](https://overthewire.org/wargames/) - Range of CompSci and CyberSec Challenges
+- [UnderTheWire](https://underthewire.tech/) - Range of CompSci and CyberSec Challenges
+- [CryptoHack](https://cryptohack.org) - Practice Crypto CTF Challenges
 - [IO](https://io.netgarage.org/)
-- [pwncollege](https://pwn.college/)
-- [BTLO](https://blueteamlabs.online/)
+- [pwncollege](https://pwn.college/) - Binary Exploitation Zero to Hero
+- [BTLO](https://blueteamlabs.online/) - Blue Team version of THM
+- [Vuln Machines](https://vulnmachines.com/) - Free Pentesting Labs aimed at Real World Emulation
+- [Gin and Juice Shop](https://portswigger.net/blog/gin-and-juice-shop-put-your-scanner-to-the-test) - Juice shop equivalent by PortSwigger
+- [Kernenetes Goat](https://github.com/madhuakula/kubernetes-goat) - Deliberately vulnerable kubernetes environment
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Practice Web3/Blockchain Hacking
+
 
 ***Immersive labs** is paid but while you are a student you have free access to it.
 
